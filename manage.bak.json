@@ -1,0 +1,38 @@
+{
+  "picBed": {
+    "又拍云": {
+      "alias": "又拍云",
+      "bucketName": "song01",
+      "operator": "mee",
+      "password": "2ozcWPa6ezGHms2fNt53XpxGpn4HAX68",
+      "baseDir": "/",
+      "customUrl": "http://song01.b0.aicdn.com",
+      "antiLeechToken": "",
+      "expireTime": 0,
+      "paging": true,
+      "itemsPerPage": 50,
+      "picBedName": "upyun",
+      "transformedConfig": "{\"song01\":{\"baseDir\":\"/\",\"area\":\"\",\"customUrl\":\"http://song01.b0.aicdn.com\",\"operator\":\"mee\",\"password\":\"2ozcWPa6ezGHms2fNt53XpxGpn4HAX68\"}}"
+    },
+    "七牛云": {
+      "alias": "七牛云",
+      "accessKey": "lM7Cf0WBKqSCFSCMxL7AXsS7KzdeuVpwSDg8lnIX",
+      "secretKey": "Yol_fFrMXSslAGk_nDQDuonIsREvHOhOomo27VK5",
+      "bucketName": "",
+      "baseDir": "/",
+      "isAutoCustomUrl": true,
+      "paging": true,
+      "itemsPerPage": 50,
+      "picBedName": "qiniu",
+      "transformedConfig": "{}"
+    },
+    "smms": {
+      "alias": "smms",
+      "token": "xBeHJF0KXp6LzMOOznPbgKdQosI5DxiM",
+      "paging": true,
+      "picBedName": "smms"
+    }
+  },
+  "settings": {},
+  "currentPicBed": "placeholder"
+}
