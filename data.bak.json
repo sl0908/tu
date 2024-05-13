@@ -1,0 +1,529 @@
+{
+  "picBed": {
+    "current": "smms",
+    "uploader": "smms",
+    "smms": {
+      "token": "xBeHJF0KXp6LzMOOznPbgKdQosI5DxiM",
+      "_configName": "5G",
+      "_id": "cdf2ebb1-beea-4ed8-b0ea-8140088656b7",
+      "_createdAt": 1711678151991,
+      "_updatedAt": 1714988028811,
+      "backupDomain": ""
+    },
+    "qiniu": {
+      "_configName": "5G",
+      "_id": "aeef8814-43a1-4a04-8336-a86e1f240cfc",
+      "_createdAt": 1711678353341,
+      "_updatedAt": 1711678399291,
+      "accessKey": "lM7Cf0WBKqSCFSCMxL7AXsS7KzdeuVpwSDg8lnIX",
+      "secretKey": "Yol_fFrMXSslAGk_nDQDuonIsREvHOhOomo27VK5",
+      "bucket": "sl2",
+      "url": "s9xb3mktq.hb-bkt.clouddn.com",
+      "area": "z1",
+      "options": "",
+      "path": ""
+    },
+    "upyun": {
+      "_configName": "5G",
+      "_id": "8de5bfd3-c9e8-463f-88a6-7fc80312ef23",
+      "_createdAt": 1711678404948,
+      "_updatedAt": 1711678491328,
+      "bucket": "song01",
+      "operator": "mee",
+      "password": "2ozcWPa6ezGHms2fNt53XpxGpn4HAX68",
+      "url": "http://song01.b0.aicdn.com",
+      "options": "",
+      "path": "",
+      "antiLeechToken": "",
+      "expireTime": "",
+      "endpoint": "https://v0.api.upyun.com"
+    },
+    "go-file": {
+      "_configName": "不限",
+      "_id": "438ec841-54f9-4c78-a084-05b9587138d0",
+      "_createdAt": 1711678744739,
+      "_updatedAt": 1711678772159,
+      "url": "https://go-file.onrender.com/",
+      "token": "7668397f3acc429c9458372fc96a079a"
+    },
+    "imgtp": {
+      "_configName": "最大6M，共30G",
+      "_id": "e28f6178-2c37-4c92-bf9d-6b43fbffb5b9",
+      "_createdAt": 1711679099822,
+      "_updatedAt": 1711679287089,
+      "account": "sl1",
+      "password": "songli0908",
+      "token": "649c0e9d2ce926e4b1d4275e11f1c858",
+      "cookie": "",
+      "mode": "Back-End"
+    },
+    "freeimagehost-uploader": {
+      "_configName": "最大128",
+      "_id": "a59e6818-7d72-4647-b08f-3efcbb349026",
+      "_createdAt": 1711680072220,
+      "_updatedAt": 1711680381261,
+      "APIKEY": "6d207e02198a847aa98d0a2a901485a5"
+    },
+    "free-uploader": {
+      "_configName": "Default",
+      "_id": "40fdc7a0-11f4-4e51-b28e-24b4b2bbdc0f",
+      "_createdAt": 1711680384935,
+      "_updatedAt": 1711680384935
+    },
+    "list": [
+      {
+        "type": "tcyun",
+        "name": "腾讯云COS",
+        "visible": false
+      },
+      {
+        "type": "aliyun",
+        "name": "阿里云OSS",
+        "visible": false
+      },
+      {
+        "type": "smms",
+        "name": "SM.MS",
+        "visible": true
+      },
+      {
+        "type": "github",
+        "name": "GitHub",
+        "visible": false
+      },
+      {
+        "type": "qiniu",
+        "name": "七牛云",
+        "visible": true
+      },
+      {
+        "type": "imgur",
+        "name": "Imgur",
+        "visible": false
+      },
+      {
+        "type": "upyun",
+        "name": "又拍云",
+        "visible": true
+      },
+      {
+        "type": "webdavplist",
+        "name": "WebDAV",
+        "visible": false
+      },
+      {
+        "type": "local",
+        "name": "本地上传",
+        "visible": false
+      },
+      {
+        "type": "sftpplist",
+        "name": "内置SFTP",
+        "visible": false
+      },
+      {
+        "type": "telegraphplist",
+        "name": "Telegraph",
+        "visible": false
+      },
+      {
+        "type": "piclist",
+        "name": "PicList",
+        "visible": false
+      },
+      {
+        "type": "lskyplist",
+        "name": "Lsky",
+        "visible": false
+      },
+      {
+        "type": "aws-s3-plist",
+        "name": "AWS S3",
+        "visible": false
+      },
+      {
+        "type": "go-file",
+        "name": "Go File",
+        "visible": true
+      },
+      {
+        "type": "imgtp",
+        "name": "imgtp",
+        "visible": true
+      },
+      {
+        "type": "freeimagehost-uploader",
+        "name": "FreeImage.Host",
+        "visible": true
+      },
+      {
+        "type": "imgbb-uploader",
+        "name": "Imgbb",
+        "visible": true
+      }
+    ],
+    "github": {
+      "_configName": "Default",
+      "_id": "e50ecc15-0dc9-442e-94b0-a1ca1111c704",
+      "_createdAt": 1711680777288,
+      "_updatedAt": 1711680777288
+    },
+    "webdavplist": {
+      "_configName": "Default",
+      "_id": "398153dc-6a95-4b16-9274-6a99a3f12e27",
+      "_createdAt": 1711680780599,
+      "_updatedAt": 1711680780599
+    },
+    "telegraphplist": {
+      "_configName": "Default",
+      "_id": "26d62d7f-a52e-44c0-982e-8b0068890749",
+      "_createdAt": 1711680781656,
+      "_updatedAt": 1711680781656
+    },
+    "piclist": {
+      "_configName": "Default",
+      "_id": "f33685bd-bb91-4ed7-bad4-fc29720b9315",
+      "_createdAt": 1711680783463,
+      "_updatedAt": 1711680783463
+    },
+    "lskyplist": {
+      "_configName": "Default",
+      "_id": "801831ff-d8a1-40e7-bc98-a372e6e22872",
+      "_createdAt": 1711680801422,
+      "_updatedAt": 1711680801422
+    },
+    "aws-s3-plist": {
+      "_configName": "Default",
+      "_id": "fec82262-4804-40a7-a824-d57cdf373b11",
+      "_createdAt": 1711680802600,
+      "_updatedAt": 1711680802600
+    },
+    "imgbb-uploader": {
+      "_configName": "最大32",
+      "_id": "0485a4b6-45dc-483d-81fc-59da96e45c7f",
+      "_createdAt": 1711680895305,
+      "_updatedAt": 1711680912175,
+      "Key": "77ab0bfa6c99a6bc731f6cc19de6ed56"
+    },
+    "img-amgl": {
+      "_configName": "Default",
+      "_id": "1dffb6c2-f641-45b9-aa64-9774a666e60f",
+      "_createdAt": 1713404231789,
+      "_updatedAt": 1713405076113,
+      "account": "son",
+      "password": "songli0908"
+    },
+    "alist-tool": {
+      "_configName": "Default",
+      "_id": "b6c32ddc-3d16-4660-8de9-c861f90321d5",
+      "_createdAt": 1713406109903,
+      "_updatedAt": 1713406109903
+    },
+    "xiaolin-alist": {
+      "_configName": "Default",
+      "_id": "706490d2-3345-49d8-a336-7666030d592a",
+      "_createdAt": 1713406111748,
+      "_updatedAt": 1713406111748
+    },
+    "alist": {
+      "_configName": "Default",
+      "_id": "a090fc5c-e7a5-4edb-9791-8ecb2b72f2fd",
+      "_createdAt": 1713406117768,
+      "_updatedAt": 1713406117768
+    }
+  },
+  "settings": {
+    "shortKey": {
+      "picgo:upload": {
+        "enable": true,
+        "key": "CommandOrControl+Shift+P",
+        "name": "upload",
+        "label": "QUICK_UPLOAD"
+      }
+    },
+    "server": {
+      "port": 36677,
+      "host": "0.0.0.0",
+      "enable": true
+    },
+    "isListeningClipboard": false,
+    "showUpdateTip": true,
+    "pasteStyle": "Custom",
+    "deleteCloudFile": true,
+    "autoCopy": false,
+    "manualPageOpen": "window"
+  },
+  "picgoPlugins": {
+    "picgo-plugin-gofile": true,
+    "picgo-plugin-imgtp": true,
+    "picgo-plugin-freeimagehost-uploader": true,
+    "picgo-plugin-imgbb-uploader": true,
+    "picgo-plugin-img-amgl": true,
+    "picgo-plugin-alist-tool": true,
+    "picgo-plugin-xiaolin-alist": true,
+    "picgo-plugin-alist": true
+  },
+  "debug": true,
+  "PICGO_ENV": "GUI",
+  "needReload": false,
+  "uploader": {
+    "smms": {
+      "configList": [
+        {
+          "token": "xBeHJF0KXp6LzMOOznPbgKdQosI5DxiM",
+          "_configName": "5G",
+          "_id": "cdf2ebb1-beea-4ed8-b0ea-8140088656b7",
+          "_createdAt": 1711678151991,
+          "_updatedAt": 1714988028811,
+          "backupDomain": ""
+        }
+      ],
+      "defaultId": "cdf2ebb1-beea-4ed8-b0ea-8140088656b7"
+    },
+    "qiniu": {
+      "configList": [
+        {
+          "_configName": "5G",
+          "_id": "aeef8814-43a1-4a04-8336-a86e1f240cfc",
+          "_createdAt": 1711678353341,
+          "_updatedAt": 1711678399291,
+          "accessKey": "lM7Cf0WBKqSCFSCMxL7AXsS7KzdeuVpwSDg8lnIX",
+          "secretKey": "Yol_fFrMXSslAGk_nDQDuonIsREvHOhOomo27VK5",
+          "bucket": "sl2",
+          "url": "s9xb3mktq.hb-bkt.clouddn.com",
+          "area": "z1",
+          "options": "",
+          "path": ""
+        }
+      ],
+      "defaultId": "aeef8814-43a1-4a04-8336-a86e1f240cfc"
+    },
+    "upyun": {
+      "configList": [
+        {
+          "_configName": "5G",
+          "_id": "8de5bfd3-c9e8-463f-88a6-7fc80312ef23",
+          "_createdAt": 1711678404948,
+          "_updatedAt": 1711678491328,
+          "bucket": "song01",
+          "operator": "mee",
+          "password": "2ozcWPa6ezGHms2fNt53XpxGpn4HAX68",
+          "url": "http://song01.b0.aicdn.com",
+          "options": "",
+          "path": "",
+          "antiLeechToken": "",
+          "expireTime": "",
+          "endpoint": "https://v0.api.upyun.com"
+        }
+      ],
+      "defaultId": "8de5bfd3-c9e8-463f-88a6-7fc80312ef23"
+    },
+    "go-file": {
+      "configList": [
+        {
+          "_configName": "不限",
+          "_id": "438ec841-54f9-4c78-a084-05b9587138d0",
+          "_createdAt": 1711678744739,
+          "_updatedAt": 1711678772159,
+          "url": "https://go-file.onrender.com/",
+          "token": "7668397f3acc429c9458372fc96a079a"
+        }
+      ],
+      "defaultId": "438ec841-54f9-4c78-a084-05b9587138d0"
+    },
+    "imgtp": {
+      "configList": [
+        {
+          "_configName": "最大6M，共30G",
+          "_id": "e28f6178-2c37-4c92-bf9d-6b43fbffb5b9",
+          "_createdAt": 1711679099822,
+          "_updatedAt": 1711679287089,
+          "account": "sl1",
+          "password": "songli0908",
+          "token": "649c0e9d2ce926e4b1d4275e11f1c858",
+          "cookie": "",
+          "mode": "Back-End"
+        }
+      ],
+      "defaultId": "e28f6178-2c37-4c92-bf9d-6b43fbffb5b9"
+    },
+    "freeimagehost-uploader": {
+      "configList": [
+        {
+          "_configName": "最大128",
+          "_id": "a59e6818-7d72-4647-b08f-3efcbb349026",
+          "_createdAt": 1711680072220,
+          "_updatedAt": 1711680381261,
+          "APIKEY": "6d207e02198a847aa98d0a2a901485a5"
+        }
+      ],
+      "defaultId": "a59e6818-7d72-4647-b08f-3efcbb349026"
+    },
+    "free-uploader": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "40fdc7a0-11f4-4e51-b28e-24b4b2bbdc0f",
+          "_createdAt": 1711680384935,
+          "_updatedAt": 1711680384935
+        }
+      ],
+      "defaultId": "40fdc7a0-11f4-4e51-b28e-24b4b2bbdc0f"
+    },
+    "github": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "e50ecc15-0dc9-442e-94b0-a1ca1111c704",
+          "_createdAt": 1711680777288,
+          "_updatedAt": 1711680777288
+        }
+      ],
+      "defaultId": "e50ecc15-0dc9-442e-94b0-a1ca1111c704"
+    },
+    "webdavplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "398153dc-6a95-4b16-9274-6a99a3f12e27",
+          "_createdAt": 1711680780599,
+          "_updatedAt": 1711680780599
+        }
+      ],
+      "defaultId": "398153dc-6a95-4b16-9274-6a99a3f12e27"
+    },
+    "telegraphplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "26d62d7f-a52e-44c0-982e-8b0068890749",
+          "_createdAt": 1711680781656,
+          "_updatedAt": 1711680781656
+        }
+      ],
+      "defaultId": "26d62d7f-a52e-44c0-982e-8b0068890749"
+    },
+    "piclist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "f33685bd-bb91-4ed7-bad4-fc29720b9315",
+          "_createdAt": 1711680783463,
+          "_updatedAt": 1711680783463
+        }
+      ],
+      "defaultId": "f33685bd-bb91-4ed7-bad4-fc29720b9315"
+    },
+    "lskyplist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "801831ff-d8a1-40e7-bc98-a372e6e22872",
+          "_createdAt": 1711680801422,
+          "_updatedAt": 1711680801422
+        }
+      ],
+      "defaultId": "801831ff-d8a1-40e7-bc98-a372e6e22872"
+    },
+    "aws-s3-plist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "fec82262-4804-40a7-a824-d57cdf373b11",
+          "_createdAt": 1711680802600,
+          "_updatedAt": 1711680802600
+        }
+      ],
+      "defaultId": "fec82262-4804-40a7-a824-d57cdf373b11"
+    },
+    "imgbb-uploader": {
+      "configList": [
+        {
+          "_configName": "最大32",
+          "_id": "0485a4b6-45dc-483d-81fc-59da96e45c7f",
+          "_createdAt": 1711680895305,
+          "_updatedAt": 1711680912175,
+          "Key": "77ab0bfa6c99a6bc731f6cc19de6ed56"
+        }
+      ],
+      "defaultId": "0485a4b6-45dc-483d-81fc-59da96e45c7f"
+    },
+    "img-amgl": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "1dffb6c2-f641-45b9-aa64-9774a666e60f",
+          "_createdAt": 1713404231789,
+          "_updatedAt": 1713405076113,
+          "account": "son",
+          "password": "songli0908"
+        }
+      ],
+      "defaultId": "1dffb6c2-f641-45b9-aa64-9774a666e60f"
+    },
+    "alist-tool": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "b6c32ddc-3d16-4660-8de9-c861f90321d5",
+          "_createdAt": 1713406109903,
+          "_updatedAt": 1713406109903
+        }
+      ],
+      "defaultId": "b6c32ddc-3d16-4660-8de9-c861f90321d5"
+    },
+    "xiaolin-alist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "706490d2-3345-49d8-a336-7666030d592a",
+          "_createdAt": 1713406111748,
+          "_updatedAt": 1713406111748
+        }
+      ],
+      "defaultId": "706490d2-3345-49d8-a336-7666030d592a"
+    },
+    "alist": {
+      "configList": [
+        {
+          "_configName": "Default",
+          "_id": "a090fc5c-e7a5-4edb-9791-8ecb2b72f2fd",
+          "_createdAt": 1713406117768,
+          "_updatedAt": 1713406117768
+        }
+      ],
+      "defaultId": "a090fc5c-e7a5-4edb-9791-8ecb2b72f2fd"
+    }
+  },
+  "buildIn": {
+    "compress": {
+      "quality": 100,
+      "isConvert": false,
+      "convertFormat": "jpg",
+      "isReSize": false,
+      "reSizeWidth": 500,
+      "reSizeHeight": 500,
+      "skipReSizeOfSmallImg": false,
+      "isReSizeByPercent": false,
+      "reSizePercent": 50,
+      "isRotate": false,
+      "rotateDegree": 0,
+      "isRemoveExif": false,
+      "isFlip": false,
+      "isFlop": false,
+      "formatConvertObj": {}
+    },
+    "watermark": {
+      "isAddWatermark": false,
+      "watermarkType": "text",
+      "isFullScreenWatermark": false,
+      "watermarkDegree": 0,
+      "watermarkText": "",
+      "watermarkFontPath": "",
+      "watermarkScaleRatio": 0.15,
+      "watermarkColor": "#CCCCCC73",
+      "watermarkImagePath": "",
+      "watermarkPosition": "southeast"
+    }
+  }
+}
